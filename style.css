@@ -463,3 +463,68 @@ body{
         width: 204px;
     }
 }
+
+/* footer */
+.footer{
+    border-top: 1px solid #EAEAEA;
+    border-bottom: 1px solid #EAEAEA;
+    padding: 20px 0;
+    margin: 55px 0 20px 0;
+}
+
+.footer__container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__col-1{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.footer__copyright{
+    font-family: "Cera Pro";
+    font-size: 14px;
+    color: #C2C2C2;   
+}
+
+.footer__social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.footer__social a{
+    text-decoration: none;
+    transition: .2s;
+}
+
+.footer__social a:hover,
+.footer__social a:focus{
+    opacity: .5;
+}
+
+@media(max-width: 500px){
+    .footer{
+        margin-top: 30px;
+    }
+    .footer__col-1{
+        flex-direction: column;
+        gap: 5px;
+        justify-content: start;
+        align-items: start;
+    }
+    .footer__copyright{
+        font-size: 12px;
+    }
+
+    .footer__social{
+        height: 100%;
+    }
+    .footer__social img{
+        width: 25px;
+        height: 25px;
+    }
+}
