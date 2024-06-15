@@ -34,7 +34,7 @@
 				<p class="plans__item-description">Отличный вариант для пенсионеров, выполнения определенных задач и работе с файлами различных размеров.</p>
 				<div class="plans__item-check-block">
 					<div class="plans__item-check">
-						+
+						<img src="<?php echo get_template_directory_uri().'/assets/img/check.svg'?>" alt="check">
 					</div>
 					<span class="plans__item-check-text">ТВ + 100 ₽ <br> (пакет "Базовый")</span>
 				</div>
@@ -55,7 +55,7 @@
 				<p class="plans__item-description">Отличный вариант для пенсионеров, выполнения определенных задач и работе с файлами различных размеров.</p>
 				<div class="plans__item-check-block">
 					<div class="plans__item-check">
-						+
+						<img src="<?php echo get_template_directory_uri().'/assets/img/check.svg'?>" alt="check">
 					</div>
 					<span class="plans__item-check-text">ТВ + 100 ₽ <br> (пакет "Базовый")</span>
 				</div>
@@ -76,7 +76,7 @@
 				<p class="plans__item-description">Отличный вариант для пенсионеров, выполнения определенных задач и работе с файлами различных размеров.</p>
 				<div class="plans__item-check-block">
 					<div class="plans__item-check">
-						+
+						<img src="<?php echo get_template_directory_uri().'/assets/img/check.svg'?>" alt="check">
 					</div>
 					<span class="plans__item-check-text">ТВ + 100 ₽ <br> (пакет "Базовый")</span>
 				</div>
@@ -97,7 +97,7 @@
 				<p class="plans__item-description">Отличный вариант для пенсионеров, выполнения определенных задач и работе с файлами различных размеров.</p>
 				<div class="plans__item-check-block">
 					<div class="plans__item-check">
-						+
+						<img src="<?php echo get_template_directory_uri().'/assets/img/check.svg'?>" alt="check">
 					</div>
 					<span class="plans__item-check-text">ТВ + 100 ₽ <br> (пакет "Базовый")</span>
 				</div>
