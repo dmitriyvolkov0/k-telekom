@@ -14,7 +14,7 @@
 			<a href="#" class="banner__but but-brand-fill">Подробнее</a>
 		</div>
 		<div class="banner__end">
-			<img class="banner__img" src="<?php echo get_template_directory_uri() . './assets/img/computer.png'?>" alt="Экономия нервов и денег — интернет К-Телеком">
+			<img class="banner__img" src="<?php echo get_template_directory_uri() . '/assets/img/computer.png'?>" alt="Экономия нервов и денег — интернет К-Телеком">
 		</div>
 	</div>
 </section>
