@@ -1,0 +1,27 @@
+:root{
+	--primary: #C81059;
+    --secondary: #0099C8;
+    --black: #2D2D2D;
+    --overlay: #F2F6F8;
+	scroll-behavior: smooth;
+}
+
+.container{
+    width: 100%;
+    max-width: 900px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background: #fff;
+    height: 80px;
+}
+
+.banner{
+    width: 100%;
+    background: var(--overlay);
+}
